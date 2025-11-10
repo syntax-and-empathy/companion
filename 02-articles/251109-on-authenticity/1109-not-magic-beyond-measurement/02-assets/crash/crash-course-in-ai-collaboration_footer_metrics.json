@@ -1,0 +1,23 @@
+{
+  "article_name": "crash-course-in-ai-collaboration",
+  "word_progression": {
+    "draft": 1457,
+    "final": 1995,
+    "change_percentage": 36.9
+  },
+  "content_retention": {
+    "overall_similarity": 40.1,
+    "content_origins": {
+      "edited": 16.9,
+      "draft": 7.7,
+      "refined": 0.8
+    }
+  },
+  "modification_summary": {
+    "High Similarity": 0.0,
+    "Medium Similarity": 3.1,
+    "Low Similarity": 22.3,
+    "New Content": 74.6
+  },
+  "generated_at": "2025-10-25T20:55:30.707554"
+}

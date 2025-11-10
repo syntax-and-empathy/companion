@@ -1,0 +1,23 @@
+{
+  "article_name": "the-count-that-coudnt",
+  "word_progression": {
+    "draft": 1368,
+    "final": 1603,
+    "change_percentage": 17.2
+  },
+  "content_retention": {
+    "overall_similarity": 37.8,
+    "content_origins": {
+      "edited": 65.9,
+      "refined": 3.3,
+      "draft": 2.2
+    }
+  },
+  "modification_summary": {
+    "High Similarity": 9.9,
+    "Medium Similarity": 16.5,
+    "Low Similarity": 45.1,
+    "New Content": 28.6
+  },
+  "generated_at": "2025-10-25T19:22:57.123633"
+}
