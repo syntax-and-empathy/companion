@@ -1,0 +1,22 @@
+{
+  "article_name": "algorithmic-theatre",
+  "word_progression": {
+    "draft": 876,
+    "final": 1238,
+    "change_percentage": 41.3
+  },
+  "content_retention": {
+    "overall_similarity": 32.0,
+    "content_origins": {
+      "edited": 54.1,
+      "draft": 4.1
+    }
+  },
+  "modification_summary": {
+    "High Similarity": 5.4,
+    "Medium Similarity": 8.1,
+    "Low Similarity": 44.6,
+    "New Content": 41.9
+  },
+  "generated_at": "2025-10-25T20:11:00.514367"
+}
