@@ -34,3 +34,17 @@ thumbs.db
 
 # "#" = comment; escape to match a literal "#"
 # \#img-notes.pxd
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+
+# Ruby
+Gemfile.lock
+.bundle/
+
+# Node modules (if using any)
+node_modules/
