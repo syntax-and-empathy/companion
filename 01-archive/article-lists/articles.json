@@ -1,0 +1,432 @@
+{
+  "Q1": {
+    "January": [
+      {
+        "title": "January 1 of 4: Generating New Year’s Guides Across the Most Populous Countries",
+        "tags": [
+          "experimental-variables-parameters-tested",
+          "ai-roles",
+          "ai-models-used.bard",
+          "ai-models-used.claude",
+          "ai-models-used.copilot",
+          "ai-models-used.chatgpt-4",
+          "ai-models-used.llama",
+          "observations-insights-challenges.ai-performance",
+          "observations-insights-challenges.accuracy-and-fact-checking",
+          "evaluation-scoring-processes"
+        ]
+      },
+      {
+        "title": "January 2 of 4: Expanding to 16 Countries and Building Holiday Tables",
+        "tags": [
+          "data-collection.country-expansion",
+          "experimental-variables-parameters-tested.templates.tables",
+          "ai-models-used.chatgpt-4",
+          "ai-models-used.bard",
+          "ai-models-used.claude",
+          "ai-models-used.llama",
+          "observations-insights-challenges.template-adherence",
+          "observations-insights-challenges.native-language-names",
+          "evaluation-scoring-processes"
+        ]
+      },
+      {
+        "title": "January 3 of 4: Holiday Articles on MLK Day, Makar Sankranti, and the 1952 Egyptian Revolution",
+        "tags": [
+          "ai-roles.types.author",
+          "experimental-variables-parameters-tested.prompting-techniques.precision-prompts",
+          "ai-models-used.chatgpt-4",
+          "ai-models-used.bard",
+          "ai-models-used.claude",
+          "observations-insights-challenges.length-constraints",
+          "observations-insights-challenges.template-resistance"
+        ]
+      },
+      {
+        "title": "January 4 of 4: Building and Applying a Framework for Evaluating Historical Articles",
+        "tags": [
+          "evaluation-scoring-processes.criteria-development",
+          "evaluation-scoring-processes.rubric-creation",
+          "experimental-variables-parameters-tested.templates.standardization",
+          "ai-models-used.chatgpt-4",
+          "ai-models-used.claude",
+          "observations-insights-challenges.alignment-and-calibration"
+        ]
+      }
+    ],
+    "February": [
+      {
+        "title": "February 1 of 8: Specialized Roles for Spring Festival Content",
+        "tags": [
+          "ai-roles",
+          "ai-roles.types.historian",
+          "ai-roles.types.author",
+          "experimental-variables-parameters-tested.templates.creation-and-refinement",
+          "experimental-variables-parameters-tested.prompting-techniques.chain-of-thought-cot",
+          "ai-models-used.claude-2-1-or-3-x",
+          "ai-models-used.chatgpt-4",
+          "evaluation-scoring-processes",
+          "observations-insights-challenges.balancing-guidance-and-creativity"
+        ]
+      },
+      {
+        "title": "February 2 of 8: Defining and Applying a Standardized Rating System",
+        "tags": [
+          "evaluation-scoring-processes.criteria-development",
+          "evaluation-scoring-processes.rubric-creation",
+          "evaluation-scoring-processes.scoring-systems",
+          "evaluation-scoring-processes.calibration-issues",
+          "ai-models-used.chatgpt-4",
+          "ai-models-used.claude-2-1-or-3-x"
+        ]
+      },
+      {
+        "title": "February 3 of 8: Daily-Observances Template for the Spring Festival",
+        "tags": [
+          "experimental-variables-parameters-tested.templates.structure.guidelines",
+          "experimental-variables-parameters-tested.prompting-techniques",
+          "ai-models-used.claude-2-1-or-3-x",
+          "evaluation-scoring-processes.criteria-development"
+        ]
+      },
+      {
+        "title": "February 4 of 8: Final-Day Template and Reflection Criteria",
+        "tags": [
+          "experimental-variables-parameters-tested.templates.merging",
+          "evaluation-scoring-processes.rubric-creation",
+          "ai-models-used.chatgpt-4"
+        ]
+      },
+      {
+        "title": "February 5 of 8: Zi Gu Articles and Comparative Model Strengths",
+        "tags": [
+          "ai-models-used.claude-2-1-or-3-x",
+          "ai-models-used.chatgpt-4",
+          "evaluation-scoring-processes.comparative-analysis-step",
+          "observations-insights-challenges.ai-performance",
+          "experimental-variables-parameters-tested.tones.types.professional-formal"
+        ]
+      },
+      {
+        "title": "February 6 of 8: Author and Editor Role Experimentation",
+        "tags": [
+          "ai-roles",
+          "ai-roles.types.author",
+          "ai-roles.types.editor",
+          "experimental-variables-parameters-tested.prompting-techniques.meta-prompting",
+          "ai-models-used.claude-2-1-or-3-x",
+          "evaluation-scoring-processes.score-analysis-and-trends"
+        ]
+      },
+      {
+        "title": "February 7 of 8: Structured Prompts—Quality Gains and Harder Error Correction",
+        "tags": [
+          "experimental-variables-parameters-tested.prompting-techniques.structured-prompts",
+          "observations-insights-challenges.correcting-inaccuracies",
+          "ai-models-used.chatgpt-4",
+          "ai-models-used.claude-2-1-or-3-x",
+          "evaluation-scoring-processes"
+        ]
+      },
+      {
+        "title": "February 8 of 8: Multi-Role Integration and Adding an Ethics Lens",
+        "tags": [
+          "ai-roles.types.author",
+          "ai-roles.types.editor",
+          "ai-roles.types.photographer",
+          "experimental-variables-parameters-tested.ethical-review",
+          "evaluation-scoring-processes",
+          "observations-insights-challenges.ai-performance"
+        ]
+      }
+    ],
+    "March": [
+      {
+        "title": "March 1 of 2: Holi Imagery—Midjourney, Leonardo.ai, and Stable Diffusion",
+        "tags": [
+          "tools-used.midjourney-v6",
+          "tools-used.leonardo-ai",
+          "tools-used.stable-diffusion",
+          "experimental-variables-parameters-tested.prompting-techniques.negative-prompts",
+          "observations-insights-challenges.cultural-sensitivity",
+          "evaluation-scoring-processes"
+        ]
+      },
+      {
+        "title": "March 2 of 2: Iterating Image Prompts for Holi—Quality, Sensitivity, and Oversight",
+        "tags": [
+          "tools-used.midjourney-v6",
+          "tools-used.leonardo-ai",
+          "tools-used.stable-diffusion",
+          "experimental-variables-parameters-tested.prompting-techniques.iterative-refinement",
+          "observations-insights-challenges.cultural-sensitivity",
+          "evaluation-scoring-processes"
+        ]
+      }
+    ]
+  },
+  "Q2": {
+    "May": [
+      {
+        "title": "May 1 of 3: Golden Week—How Tone Impacts Article Quality",
+        "tags": [
+          "experimental-variables-parameters-tested.tones.testing-and-exploration",
+          "experimental-variables-parameters-tested.tones.types.professional-formal",
+          "experimental-variables-parameters-tested.tones.types.conversational",
+          "ai-models-used.chatgpt-4",
+          "ai-models-used.claude-3-5-sonnet",
+          "evaluation-scoring-processes"
+        ]
+      },
+      {
+        "title": "May 2 of 3: Constitution Day—Image Descriptions and Tonal Variations",
+        "tags": [
+          "experimental-variables-parameters-tested.prompting-techniques",
+          "experimental-variables-parameters-tested.tones.types.descriptive-creative",
+          "evaluation-scoring-processes",
+          "ai-models-used.claude-3-5-sonnet",
+          "ai-models-used.chatgpt-4"
+        ]
+      },
+      {
+        "title": "May 3 of 3: Vesak and Memorial Day—Refining Scoring Criteria and Evaluations",
+        "tags": [
+          "evaluation-scoring-processes.criteria-development",
+          "evaluation-scoring-processes.rubric-creation",
+          "evaluation-scoring-processes.scoring-systems",
+          "ai-models-used.claude-3-5-sonnet",
+          "ai-models-used.chatgpt-4",
+          "ai-models-used.gpt-3-5"
+        ]
+      }
+    ],
+    "June": [
+      {
+        "title": "June 1 of 3: Tone Selection for Dragon Boat Festival and Brazilian Valentine’s Day",
+        "tags": [
+          "experimental-variables-parameters-tested.tones.testing-and-exploration",
+          "experimental-variables-parameters-tested.tones.types.informative-explanatory",
+          "experimental-variables-parameters-tested.tones.types.engaging-conversational",
+          "experimental-variables-parameters-tested.tones.types.descriptive-creative",
+          "experimental-variables-parameters-tested.tones.types.professional-formal",
+          "experimental-variables-parameters-tested.tones.types.optimistic-celebratory",
+          "ai-models-used.chatgpt-4",
+          "ai-models-used.gemini"
+        ]
+      },
+      {
+        "title": "June 2 of 3: Consistent Tone for Eid al-Adha in Bangladesh and Egypt",
+        "tags": [
+          "experimental-variables-parameters-tested.tones.consistency",
+          "observations-insights-challenges.false-starts",
+          "observations-insights-challenges.scoring-issues",
+          "ai-models-used.chatgpt-4",
+          "ai-models-used.claude-3-x"
+        ]
+      },
+      {
+        "title": "June 3 of 3: Supplemental—Roles and Templates Used in June",
+        "tags": [
+          "documentation.roles",
+          "documentation.templates",
+          "evaluation-scoring-processes",
+          "observations-insights-challenges.process-documentation"
+        ]
+      }
+    ],
+    "July": [
+      {
+        "title": "July 1 of 2: Comparing a New Role-Creation GPT and JSON vs Markdown",
+        "tags": [
+          "ai-roles.role-creation-gpt",
+          "experimental-variables-parameters-tested.templates.markup-languages.json",
+          "experimental-variables-parameters-tested.templates.markup-languages.markdown",
+          "observations-insights-challenges.ai-performance"
+        ]
+      },
+      {
+        "title": "July 2 of 2: Multi-Holiday Role Tests, Scoring Analysis, and Data Visualization",
+        "tags": [
+          "ai-roles",
+          "evaluation-scoring-processes.score-analysis-and-trends",
+          "tools-used.charting",
+          "ai-models-used.chatgpt-4o",
+          "ai-models-used.claude-3-x",
+          "observations-insights-challenges.model-inconsistency"
+        ]
+      }
+    ]
+  },
+  "Q3": {
+    "July": [
+      {
+        "title": "July 1 of 2: Comparing a New Role-Creation GPT and JSON vs Markdown",
+        "tags": [
+          "ai-roles.role-creation-gpt",
+          "experimental-variables-parameters-tested.templates.markup-languages.json",
+          "experimental-variables-parameters-tested.templates.markup-languages.markdown",
+          "observations-insights-challenges.ai-performance"
+        ]
+      },
+      {
+        "title": "July 2 of 2: Multi-Holiday Role Tests, Scoring Analysis, and Data Visualization",
+        "tags": [
+          "ai-roles",
+          "evaluation-scoring-processes.score-analysis-and-trends",
+          "tools-used.charting",
+          "ai-models-used.chatgpt-4o",
+          "ai-models-used.claude-3-x",
+          "observations-insights-challenges.model-inconsistency"
+        ]
+      }
+    ],
+    "August": [
+      {
+        "title": "August 1 of 3: Flooding of the Nile—JSON Roles with JSON and XML Templates",
+        "tags": [
+          "experimental-variables-parameters-tested.templates.markup-languages.json",
+          "experimental-variables-parameters-tested.templates.markup-languages.xml",
+          "evaluation-scoring-processes",
+          "ai-models-used.claude-3-5-sonnet",
+          "ai-models-used.chatgpt-4"
+        ]
+      },
+      {
+        "title": "August 2 of 3: Zero-Shot to Super Prompts—Performance vs Structure",
+        "tags": [
+          "experimental-variables-parameters-tested.prompting-techniques.zero-shot",
+          "experimental-variables-parameters-tested.prompting-techniques.few-shot",
+          "experimental-variables-parameters-tested.prompting-techniques.super-prompts",
+          "experimental-variables-parameters-tested.templates",
+          "evaluation-scoring-processes"
+        ]
+      },
+      {
+        "title": "August 3 of 3: Chain of Thought for Janmashtami—Template and Rubric Improvements",
+        "tags": [
+          "experimental-variables-parameters-tested.prompting-techniques.chain-of-thought-cot",
+          "evaluation-scoring-processes.criteria-development",
+          "ai-models-used.claude-3-5-sonnet",
+          "ai-models-used.chatgpt-4o"
+        ]
+      }
+    ],
+    "September": [
+      {
+        "title": "September 1 of 4: Rebooting Chain of Thought for Global Celebration Templates",
+        "tags": [
+          "experimental-variables-parameters-tested.prompting-techniques.chain-of-thought-cot",
+          "evaluation-scoring-processes",
+          "ai-models-used.chatgpt-4o"
+        ]
+      },
+      {
+        "title": "September 2 of 4: Testing Two CoT Rubrics—Zero-, One-, and Few-Shot Articles",
+        "tags": [
+          "experimental-variables-parameters-tested.prompting-techniques.chain-of-thought-cot",
+          "evaluation-scoring-processes",
+          "ai-models-used.claude-3-5-sonnet"
+        ]
+      },
+      {
+        "title": "September 3 of 4: Diverse Subjects and Multi-Day Festival Adaptation",
+        "tags": [
+          "experimental-variables-parameters-tested.prompting-techniques.chain-of-thought-cot",
+          "experimental-variables-parameters-tested.templates.multi-day-events",
+          "ai-models-used.claude-3-5-sonnet",
+          "evaluation-scoring-processes"
+        ]
+      },
+      {
+        "title": "September 4 of 4: Wrap-up—Template Refinements and Rubric Insights",
+        "tags": [
+          "experimental-variables-parameters-tested.prompting-techniques.chain-of-thought-cot",
+          "observations-insights-challenges.ai-performance",
+          "evaluation-scoring-processes"
+        ]
+      }
+    ]
+  },
+  "Q4": {
+    "October": [
+      {
+        "title": "October 1 of 3: Refining and Merging Article Templates",
+        "tags": [
+          "experimental-variables-parameters-tested.templates.merging",
+          "experimental-variables-parameters-tested.templates.creation-and-refinement",
+          "evaluation-scoring-processes.criteria-development",
+          "ai-models-used.claude-3-5-sonnet",
+          "ai-models-used.chatgpt-4o"
+        ]
+      },
+      {
+        "title": "October 2 of 3: Testing Tones and Analyzing Scoring Trends",
+        "tags": [
+          "experimental-variables-parameters-tested.tones.testing-and-exploration",
+          "evaluation-scoring-processes.score-analysis-and-trends",
+          "ai-models-used.chatgpt-4o",
+          "ai-models-used.claude-3-5-sonnet"
+        ]
+      },
+      {
+        "title": "October 3 of 3: Halloween Through Historical Perspectives",
+        "tags": [
+          "experimental-variables-parameters-tested.tones.types.descriptive-creative",
+          "ai-models-used.claude-3-5-sonnet",
+          "ai-roles.types.historian"
+        ]
+      }
+    ],
+    "November": [
+      {
+        "title": "November 1 of 3: Prompt Complexity—From Simple Requests to Structured Templates",
+        "tags": [
+          "experimental-variables-parameters-tested.prompting-techniques",
+          "experimental-variables-parameters-tested.prompt-complexity-levels",
+          "evaluation-scoring-processes",
+          "observations-insights-challenges.scoring-inconsistencies"
+        ]
+      },
+      {
+        "title": "November 2 of 3: Role Definition Depth—Basic, Self-Defined, and Fully Structured",
+        "tags": [
+          "ai-roles",
+          "experimental-variables-parameters-tested.ai-roles.complexity-basic-vs-complex",
+          "evaluation-scoring-processes",
+          "ai-models-used.chatgpt-4o",
+          "ai-models-used.claude-3-5-sonnet"
+        ]
+      },
+      {
+        "title": "November 3 of 3: Andrés Bonifacio Articles—Comparing Scoring Behaviors",
+        "tags": [
+          "evaluation-scoring-processes.comparative-analysis-step",
+          "evaluation-scoring-processes.score-analysis-and-trends",
+          "observations-insights-challenges.model-scoring-bias",
+          "ai-models-used.claude-3-5-sonnet",
+          "ai-models-used.chatgpt-4o"
+        ]
+      }
+    ],
+    "December": [
+      {
+        "title": "December 1 of 2: How Prompt Complexity Affects Winter Solstice Articles",
+        "tags": [
+          "experimental-variables-parameters-tested.prompt-complexity-levels",
+          "ai-models-used.claude-3-5-sonnet",
+          "ai-models-used.chatgpt-4",
+          "evaluation-scoring-processes.score-analysis-and-trends"
+        ]
+      },
+      {
+        "title": "December 2 of 2: Strategic Combinations of Roles, Templates, Tone, and Context",
+        "tags": [
+          "experimental-variables-parameters-tested.prompting-techniques",
+          "experimental-variables-parameters-tested.templates.creation-and-refinement",
+          "experimental-variables-parameters-tested.tones",
+          "evaluation-scoring-processes"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "checkpoint_name": "steps_1_2",
+  "timestamp": "2025-11-01T02:07:09.581706",
+  "article_metadata": {
+    "article_name": "new-venue",
+    "input_path": "/content/",
+    "processing_timestamp": "2025-11-01T02:07:09.573539",
+    "versions_found": [
+      "draft",
+      "refined",
+      "edited",
+      "final"
+    ],
+    "validation_status": "passed",
+    "validation_results": {
+      "has_draft": true,
+      "has_final": true,
+      "missing_required": [],
+      "versions_found": [
+        "final",
+        "refined",
+        "draft",
+        "edited"
+      ],
+      "is_valid": true
+    }
+  },
+  "processing_summary": {
+    "draft": {
+      "character_count": 10363,
+      "word_count": 1574,
+      "sentence_count": 64,
+      "paragraph_count": 39,
+      "avg_sentence_length": 127.96875,
+      "avg_paragraph_length": 263.7692307692308
+    },
+    "refined": {
+      "character_count": 15064,
+      "word_count": 2162,
+      "sentence_count": 161,
+      "paragraph_count": 72,
+      "avg_sentence_length": 73.73291925465838,
+      "avg_paragraph_length": 207.25
+    },
+    "edited": {
+      "character_count": 13540,
+      "word_count": 1953,
+      "sentence_count": 92,
+      "paragraph_count": 72,
+      "avg_sentence_length": 82.51086956521739,
+      "avg_paragraph_length": 186.0
+    },
+    "final": {
+      "character_count": 12567,
+      "word_count": 1801,
+      "sentence_count": 94,
+      "paragraph_count": 69,
+      "avg_sentence_length": 73.24468085106383,
+      "avg_paragraph_length": 180.1014492753623
+    }
+  },
+  "validation_results": {
+    "has_draft": true,
+    "has_final": true,
+    "missing_required": [],
+    "versions_found": [
+      "final",
+      "refined",
+      "draft",
+      "edited"
+    ],
+    "is_valid": true
+  },
+  "article_summary": {
+    "article_name": "new-venue",
+    "input_path": "/content/",
+    "versions_count": 4,
+    "validation_status": "passed",
+    "file_sizes": {
+      "draft": 10518,
+      "refined": 15349,
+      "edited": 13776,
+      "final": 12887
+    }
+  }
+}

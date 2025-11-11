@@ -1,0 +1,5 @@
+Stage,Characters,Words,UniqueWords,Sentences,AvgWordsPerSentence,TypeTokenRatio
+Draft,8054,1358,542,94,14.45,0.3991
+Refined,5972,940,496,73,12.88,0.5277
+Edited,10627,1648,692,102,16.16,0.4199
+Final,8160,1378,596,94,14.66,0.4325
