@@ -1,0 +1,51 @@
+file,path,size_bytes,preview
+0510-generate-data.py,/mnt/data/0510-generate-data.py,915,"import os
+import re
+import difflib
+import pandas as pd
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+
+# Define file paths and stage names
+stages = [
+    (""Draft"", ""/mnt/data/01-draft-name.md""),
+    (""Refined"", ""/mnt/data/03 - refined-name.md""),
+    (""Edited"", ""/mnt/data/04 - edited-name.md""),
+    (""Final"", ""/mnt/data/05 - final-name.md""),
+]
+
+# Helper to read and preprocess text
+def load_text(path):
+    with open(path, 'r', enco"
+draft-article.md,/mnt/data/draft-article.md,8298,"# Article 1 — Early Attempts: Building a Transparent Testing Tool with AI
+
+## Intro / Hook
+
+The starting point was simple: I wanted a way to see how much of my writing came from me and how much came from AI. A tool that could measure that balance across drafts felt like it could bring some much-needed transparency to design work.
+
+That transparency matters. Large Language Models (LLMs) aren’t magic boxes — they generate text by probability, not judgment. Without clear reporting, it’s easy to los"
+refined-article.md,/mnt/data/refined-article.md,6329,"# The Count That Couldn’t
+
+## Opening Hook
+
+It was about 2:30 in the morning when I realized my comfortable metrics process had officially died.
+
+I’d been living in `JSON` and `XML` land for months—dialing in a framework for tracking how documents changed from draft to final. It was transparent, predictable, and most importantly, **mine**. And then, without warning, it became unworkable. The files ballooned past what the AI could reliably handle, my token trimming gutted key context, and the out"
+edited-article.md,/mnt/data/edited-article.md,11763,"# **The Count That Couldn’t: When a Good Idea Collapses Under Its Own Weight**
+
+This is the first article in a five-part series about building a tool to track human contributions to AI-drafted content. It's a cautionary tale that begins with vague prompts and false finishes, where I had no idea what I was getting myself into and ended up paying the tax with compound interest.
+
+• **Part 1: The Count That Couldn’t**  
+• Part 2: Algorithmic Theatre  
+• Part 3: When Collaboration Comes Alive  
+• Par"
+final-article.md,/mnt/data/final-article.md,10261,"# **The Count That Couldn’t**
+
+## The High Cost of a Half-Baked Idea
+
+![](https://ik.imagekit.io/typeai/tr:w-1200,c-at_max/img_SXFJSGWZ75tFAa30u3.jpg){ width=480px }
+
+This is the first in a five-part series on building a tool to measure human contributions to AI-drafted content. A cautionary tale that begins with vague prompts, stumbles forward with uninformed decisions, and ends with paying the price with compound interest.
+
+• **Part 1: The Count That Couldn’t**  
+• Part 2: Algorithmic Theatre "

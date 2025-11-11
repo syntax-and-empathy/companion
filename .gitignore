@@ -32,3 +32,25 @@ tools/**/*.pdf
 *_state.db
 .*_state.db
 input/
+# OS
+.DS_Store
+thumbs.db
+
+# Apps
+*.pxd
+*.zip
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+
+# Ruby
+Gemfile.lock
+.bundle/
+bin/
+
+# Node modules (if using any)
+node_modules/

@@ -1,0 +1,5 @@
+index,Draft,Refined,Edited,Final
+Draft,1.0,0.356,0.5427,0.4361
+Refined,0.356,1.0,0.328,0.3109
+Edited,0.5427,0.328,1.0,0.5531
+Final,0.4361,0.3109,0.5531,1.0

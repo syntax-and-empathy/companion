@@ -1,0 +1,4 @@
+From,To,WordRetention,SequenceSimilarity
+Draft,Refined,39.48,1.63
+Refined,Edited,43.35,4.04
+Edited,Final,53.9,13.04

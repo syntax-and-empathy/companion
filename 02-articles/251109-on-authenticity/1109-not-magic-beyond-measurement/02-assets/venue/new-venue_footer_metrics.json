@@ -1,0 +1,22 @@
+{
+  "article_name": "new-venue",
+  "word_progression": {
+    "draft": 1574,
+    "final": 1801,
+    "change_percentage": 14.4
+  },
+  "content_retention": {
+    "overall_similarity": 33.8,
+    "content_origins": {
+      "edited": 81.9,
+      "refined": 1.1
+    }
+  },
+  "modification_summary": {
+    "High Similarity": 55.3,
+    "Medium Similarity": 12.8,
+    "Low Similarity": 14.9,
+    "New Content": 17.0
+  },
+  "generated_at": "2025-11-01T02:49:52.295458"
+}
