@@ -283,7 +283,7 @@ class READMEManager:
         prompt = f"""You are a technical documentation expert helping to maintain README files for a design and technology repository.
 
 Repository Context:
-This is the "Syntax & Empathy Companion" repository - a Jekyll-based site with structured content about design leadership, AI collaboration, and technical workflows for design professionals.
+This is the "Syntax & Empathy Companion" repository with structured content about design leadership, AI collaboration, and technical workflows for design professionals.
 
 Task: {action.capitalize()} a README.md file for the following directory.
 

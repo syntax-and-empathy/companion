@@ -203,7 +203,6 @@ N/A - This content is an internal documentation guide for the repository.
 ### Recommended Reading
 
 -   [GitHub's Guide to writing a great README](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-readmes) - For general best practices on README files.
--   [Jekyll Documentation](https://jekyllrb.com/docs/) - For understanding the underlying framework of the "Syntax & Empathy Companion."
 
 </details>
 

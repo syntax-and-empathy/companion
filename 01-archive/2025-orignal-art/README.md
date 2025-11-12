@@ -30,7 +30,7 @@ This directory contains:
 
 ## Reading Guide
 
-This directory is a collection of visual assets. Content creators and site maintainers can browse these images to find appropriate visuals for articles, promotional materials, or site sections. Developers may integrate these assets into the Jekyll site's templates. There is no specific reading order; images can be viewed individually based on need.
+This directory is a collection of visual assets. Content creators and site maintainers can browse these images to find appropriate visuals for articles, promotional materials, or site sections. Developers may integrate these assets into the site's templates. There is no specific reading order; images can be viewed individually based on need.
 
 ## Key Takeaways
 
@@ -51,8 +51,7 @@ This directory is a collection of visual assets. Content creators and site maint
 ## Related Content
 
 - [../](01-archive/README.md) - The parent `01-archive` directory for other archived materials.
-- [../../_posts/](../../_posts/) - For articles and posts that may utilize these assets.
-- [../../_data/](../../_data/) - For site configuration or data files that might reference assets.
+- [../../02-articles/](../../02-articles/) - For articles and posts that may utilize these assets.
 
 ## Citations & References
 
