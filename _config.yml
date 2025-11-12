@@ -1,5 +1,9 @@
 # Site settings
+lang: en
+timezone: America/New_York
+
 title: Syntax & Empathy Companion
+tagline: Design Leadership, AI Collaboration, and Technical Workflows
 description: >-
   Structured content about design leadership, AI collaboration,
   and technical workflows for design professionals.
@@ -10,7 +14,14 @@ baseurl: "/companion"
 author:
   name: Syntax & Empathy
 
+# Social media
+social:
+  name: Syntax & Empathy
+  links:
+    - https://github.com/syntax-and-empathy
+
 # Theme configuration
+theme: jekyll-theme-chirpy
 plugins:
   - jekyll-remote-theme
 
@@ -18,7 +29,10 @@ remote_theme: cotes2020/jekyll-theme-chirpy
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:title/
+
+# Pagination
+paginate: 10
 
 # Collections
 collections:
