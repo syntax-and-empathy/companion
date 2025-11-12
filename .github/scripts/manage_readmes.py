@@ -301,7 +301,7 @@ UX Best Practices (CRITICAL):
 4. **Wayfinding**: Use the breadcrumb trail provided to create the wayfinding section. Build clear navigation showing parent directory and path to root. Include sibling directories in "Related directories" or "What's Next" sections.
 5. **Progressive Disclosure**: Use the <details>/<summary> HTML tags to hide detailed information. Start with essential info (TL;DR, At a Glance) and progressively reveal more detail.
 6. **Information Scent**: Write clear, descriptive links and labels that tell users exactly what they'll find. Avoid vague terms.
-7. **Scanability**: Use tables, emojis, and formatting to make information scannable. The "At a Glance" section should be a quick reference.
+7. **Scanability**: Use tables, bold text, and clear formatting to make information scannable. The "At a Glance" section should be a quick reference.
 
 Content Guidelines:
 8. Use clear, professional language appropriate for design professionals
@@ -311,7 +311,7 @@ Content Guidelines:
 12. Create actionable "What's Next" sections with specific next steps and links
 13. Remove any template comments (<!-- ... -->) from the final output
 14. Keep the tone informative and professional, similar to existing content in the repository
-15. Use emojis tastefully to create visual landmarks (🧭 for wayfinding, 📋 for summaries, etc.)
+15. Do not use emojis - keep formatting clean and professional with bold text and clear hierarchy
 
 Return ONLY the complete README.md content, with no preamble or explanation.
 """
