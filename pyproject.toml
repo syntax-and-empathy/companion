@@ -10,35 +10,7 @@ dependencies = [
     "python-dotenv>=1.2.1",
     "pyyaml>=6.0.3",
     "requests>=2.32.5",
-    # Workspace packages - install all tools by default
-    "gmail-collector",
-    "reddit-collector",
-    "stackexchange-collector",
-    "web-articles-collector",
-    "web-direct-collector",
-    "transcribe",
-    "pdf-to-md",
 ]
-
-[tool.uv.workspace]
-members = [
-    "tools/gmail",
-    "tools/reddit",
-    "tools/stackexchange",
-    "tools/web_articles",
-    "tools/web_direct",
-    "tools/transcribe",
-    "tools/pdf-to-md",
-]
-
-[tool.uv.sources]
-gmail-collector = { workspace = true }
-reddit-collector = { workspace = true }
-stackexchange-collector = { workspace = true }
-web-articles-collector = { workspace = true }
-web-direct-collector = { workspace = true }
-transcribe = { workspace = true }
-pdf-to-md = { workspace = true }
 
 [dependency-groups]
 dev = [
