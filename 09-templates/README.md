@@ -30,7 +30,7 @@ This directory houses various templates used to maintain consistency and structu
 This directory serves as a central hub for standardized templates, primarily focused on file and directory structures within the "Syntax & Empathy Companion" site. Its purpose is to streamline content creation and ensure a consistent user experience by providing predefined formats for different content types. Visitors can use these templates as a reference to understand the expected organization and content of various files throughout the repository.
 
 <details>
-<summary><strong>More Context</strong> (click to expand)</summary>
+<summary>**More Context** (click to expand)</summary>
 
 This directory is foundational for maintaining a consistent voice, structure, and navigation across the entire "Syntax & Empathy Companion" repository. By providing clear templates, it reduces the cognitive load for contributors and ensures a predictable experience for readers, aligning with the project's commitment to clarity and empathy in documentation.
 
@@ -55,7 +55,7 @@ Start here for the most essential or popular content:
 - **readme/** - Contains templates specifically designed for `README.md` files, ensuring a consistent informational structure and guidance within each directory of the repository.
 
 <details>
-<summary><strong>View Full Directory Tree</strong> (click to expand)</summary>
+<summary>**View Full Directory Tree** (click to expand)</summary>
 
 ```
 09-templates/
@@ -86,7 +86,7 @@ Start here for the most essential or popular content:
 ## Organization
 
 <details>
-<summary><strong>Structure & Logic</strong> (click to expand)</summary>
+<summary>**Structure & Logic** (click to expand)</summary>
 
 ### Organizational Approach
 
@@ -111,16 +111,20 @@ Start here for the most essential or popular content:
 2. Refer to the `01-introduction/` directory for general repository guidelines and standards that these templates support.
 3. Contribute new template ideas or improvements to enhance repository consistency and user experience.
 
+**Related directories:**
+- `01-introduction/` - Provides overarching guidelines that these templates help implement.
+- `10-resources/` (if applicable) - May contain guides or examples that reference these templates for best practices.
+
 ---
 
 ## Metadata
 
 <details>
-<summary><strong>Directory Information</strong> (click to expand)</summary>
+<summary>**Directory Information** (click to expand)</summary>
 
 | | |
 |---|---|
-| **Last Updated** | 2023-10-27 |
+| **Last Updated** | 2024-05-15 |
 | **Status** | Active |
 | **Subdirectories** | 1 |
 | **Total Items** | N/A (Varies based on template files within subdirectories) |
