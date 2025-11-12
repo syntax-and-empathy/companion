@@ -21,41 +21,7 @@ This bundle contains all outputs from a complete pipeline run analyzing
 - lexicons/ (2 files)
 - rapidfuzz/ (10 files)
 
-## KEY FILES
-
-outputs/final/
-- content_complete_summary.json.   : Complete analysis schema
-- report.html                      : Interactive HTML report
-- [timeline_heatmap.png](#timeline-heatmap)             : Attribution timeline visualization
-- [hybrid_map.png](#hybrid-map)                   : Change-point detection map
-
-outputs/calibration/
-- labels.parquet                   : Segment labels (human/synthetic/hybrid/uncertain)
-- segments.parquet                 : Segment boundaries and features
-
-outputs/ruptures/
-- hybrid_seams.parquet             : Detected change-points
-- feature_fusion.parquet           : Normalized feature matrix for detection
-
-outputs/nltk/
-- fw_burstiness_windows.parquet    : Window-level features (basis for all modules)
-
-outputs/spacy/
-- syntax_discourse_windows.parquet : Syntax & discourse features
-
-outputs/lexicons/
-- style_signals.parquet            : Hedge, idiom, intensifier densities
-
-outputs/nli/
-- nli_consistency.parquet          : Contradiction detection results
-
-## QUICK START
-
-1. View the HTML report: Open outputs/final/report.html in a browser
-2. Access the schema: Load outputs/final/content_complete_summary.json
-3. Analyze segments: Read outputs/calibration/labels.parquet with pandas
-
-## MODULES
+## NOTEBOOK MODULES
 
 Module 0:  Foundations (paths, determinism, helpers)
 Module 1:  Lexical features (textstat, wordfreq)
@@ -69,8 +35,6 @@ Module 11: Calibration & labeling
 Module 12: Schema & final report
 
 ## VISUALIZATIONS
-
-### Index
 
 **NLTK**
 - [Stopword Radar](#stopword-radar)
