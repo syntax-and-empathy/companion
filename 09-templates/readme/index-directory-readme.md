@@ -5,16 +5,16 @@
 
 ---
 
-## 🧭 Wayfinding
+## Wayfinding
 
-**📍 You are here:** [Parent Directory] > **[Current Directory]**
+**You are here:** [Parent Directory] > **[Current Directory]**
 
-**⬆️ Up:** [../](../) - [Brief description of parent directory]
-**🏠 Home:** [/](/) - Return to repository root
+**Up:** [../](../) - [Brief description of parent directory]
+**Home:** [/](/) - Return to repository root
 
 ---
 
-## 📋 At a Glance
+## At a Glance
 
 <!-- Quick orientation - answers "What is this?" and "Why should I care?" -->
 | | |
@@ -34,7 +34,7 @@
 [Explain what this directory contains, why it exists, and how visitors should use it. Include any important context about the content organization or relationship to other directories.]
 
 <details>
-<summary><strong>📖 More Context</strong> (click to expand)</summary>
+<summary><strong>More Context</strong> (click to expand)</summary>
 
 [Additional background information, history, or detailed explanation that helps visitors understand the bigger picture. This is progressive disclosure - hide details that not everyone needs immediately.]
 
@@ -46,16 +46,16 @@
 
 ---
 
-## 📂 Contents
+## Contents
 
 <!-- List each subdirectory with a clear description -->
-<!-- Format: Icon + Bold Name + Badge (if relevant) + Clear description -->
+<!-- Format: Bold name + Clear description -->
 
 ### Featured Content
 
 Start here for the most essential or popular content:
 
-- **[featured-subdirectory/]** 🌟 - [Why this is featured/recommended to start here]
+- **[featured-subdirectory/]** - [Why this is featured/recommended to start here]
 
 ### All Directories
 
@@ -66,7 +66,7 @@ Start here for the most essential or popular content:
 - **[subdirectory-3/]** - [Clear description focusing on what visitors will find and why they'd want to explore it]
 
 <details>
-<summary><strong>🗂️ View Full Directory Tree</strong> (click to expand)</summary>
+<summary><strong>View Full Directory Tree</strong> (click to expand)</summary>
 
 ```
 [current-directory]/
@@ -85,7 +85,7 @@ Start here for the most essential or popular content:
 
 ---
 
-## 🗺️ Navigation Guide
+## Navigation Guide
 
 ### Where to Start
 
@@ -96,16 +96,16 @@ Start here for the most essential or popular content:
 ### How to Explore
 
 [Provide clear guidance on how visitors should navigate this directory. Examples:]
-- 📅 **Chronologically:** Browse from oldest to newest (or vice versa)
-- 🎯 **By topic:** Each subdirectory focuses on a specific theme
-- 📊 **By difficulty:** Start with introductory content, progress to advanced
-- 🔍 **By interest:** Each subdirectory is self-contained
+- **Chronologically:** Browse from oldest to newest (or vice versa)
+- **By topic:** Each subdirectory focuses on a specific theme
+- **By difficulty:** Start with introductory content, progress to advanced
+- **By interest:** Each subdirectory is self-contained
 
-**💡 Tip:** [Helpful navigation tip, like "Each subdirectory has its own README with detailed information"]
+**Tip:** [Helpful navigation tip, like "Each subdirectory has its own README with detailed information"]
 
 ---
 
-## 🏗️ Organization
+## Organization
 
 <details>
 <summary><strong>Structure & Logic</strong> (click to expand)</summary>
@@ -128,17 +128,17 @@ Start here for the most essential or popular content:
 ### Content Types
 
 [Describe what types of content visitors will find in the subdirectories:]
-- 📄 Articles and essays
-- 📊 Data and analysis
-- 🎨 Design assets
-- 💻 Code and examples
-- 📚 Reference materials
+- Articles and essays
+- Data and analysis
+- Design assets
+- Code and examples
+- Reference materials
 
 </details>
 
 ---
 
-## ➡️ What's Next
+## What's Next
 
 **After exploring this directory, you might want to:**
 1. [Suggested next step 1 with link]
@@ -151,7 +151,7 @@ Start here for the most essential or popular content:
 
 ---
 
-## ℹ️ Metadata
+## Metadata
 
 <details>
 <summary><strong>Directory Information</strong> (click to expand)</summary>
@@ -168,4 +168,4 @@ Start here for the most essential or popular content:
 
 ---
 
-**💬 Questions or feedback?** [Contact information or link to feedback mechanism]
+**Questions or feedback?** [Contact information or link to feedback mechanism]
