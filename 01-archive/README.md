@@ -111,8 +111,6 @@ Each monthly trial involves a rigorous evaluation of the AI-generated content. T
 ├── 2025-orignal-art/              Original Visual Assets for Syntax & Empathy Companion (2025)
 ├── article-lists/                 Full Year AI Trials Table of Contents
 ├── digests/                       Summarized versions or key takeaways from the trials
-├── ai-trials-january-pt-1.md      January experiments, part 1
-├── ai-trials-january-pt-2.md      January experiments, part 2
 ├── ai-trials-january-pt-3.md      January experiments, part 3
 ├── ai-trials-january-pt-4.md      January experiments, part 4
 ├── ai-trials-february-pt-1.md     February experiments, part 1
@@ -127,7 +125,7 @@ Each monthly trial involves a rigorous evaluation of the AI-generated content. T
 ├── ai-trials-march-pt-2.md        March experiments, part 2
 ├── ai-trials-april-pt-1.md        April experiments, part 1
 ├── ai-trials-april-pt-2.md        April experiments, part 2
-├── ai-trials-april-pt-2-d76.md    April experiments, part 3 (labeled as pt-2-d76)
+├── ai-trials-april-pt-2-d76.md    April experiments, part 3
 ├── ai-trials-may-pt-1.md          May experiments, part 1
 ├── ai-trials-may-pt-2.md          May experiments, part 2
 ├── ai-trials-may-pt-3.md          May experiments, part 3
@@ -143,137 +141,4 @@ Each monthly trial involves a rigorous evaluation of the AI-generated content. T
 ├── ai-trials-september-pt-2.md    September experiments, part 2
 ├── ai-trials-september-pt-3.md    September experiments, part 3
 ├── ai-trials-september-pt-4.md    September experiments, part 4
-├── ai-trials-october-pt-1.md      October experiments, part 1
-├── ai-trials-october-pt-2.md      October experiments, part 2
-├── ai-trials-october-pt-3.md      October experiments, part 3
-├── ai-trials-november-pt-1.md     November experiments, part 1
-├── ai-trials-november-pt-2.md     November experiments, part 2
-├── ai-trials-november-pt-3.md     November experiments, part 3
-├── ai-trials-december-pt-1.md     December experiments, part 1
-└── ai-trials-december-pt-2.md     December experiments, part 2
-```
-
-#### Directory Guide
-
--   **[2025-orignal-art/](2025-orignal-art/)** - Contains original visual assets intended for the broader "Syntax & Empathy Companion" project, providing visual context for related content.
--   **[article-lists/](article-lists/)** - Houses a full year's table of contents for the AI trials, offering an an alternative chronological overview of all articles.
--   **[digests/](digests/)** - Contains summarized versions or key takeaways from the various trials, useful for quick comprehension of key findings.
-
-</details>
-
----
-
-## How to Navigate
-
-### Recommended Path
-
-**For the complete experience:**
-1.  Start with [2024-article-index.md](2024-article-index.md) for a high-level overview and links to all monthly trials.
-2.  Then explore individual monthly articles (e.g., [ai-trials-january-pt-1.md](ai-trials-january-pt-1.md)) to dive into specific experimental details, prompts, and results.
-3.  Review the [digests/](digests/) directory for concise summaries of key insights from the trials.
-
-### Alternative Paths
-
-**If you're short on time:** Consult the `TL;DR` sections within the `2024-article-index.md` or individual monthly articles for quick insights.
-**If you're looking for specific information:** Use the [2024-article-index.md](2024-article-index.md) to locate trials by month, AI model, or prompting technique.
-**If you want a consolidated content list:** Refer to the [article-lists/](article-lists/) directory for a full year's table of contents.
-
-**Tip:** The monthly articles follow an `ai-trials-[month]-pt-[number].md` naming convention (with some variations like `pt-2-d76`) for easy chronological browsing.
-
----
-
-## Prerequisites & Context
-
-<details>
-<summary><strong>What to know before reading</strong> (click to expand)</summary>
-
-### Helpful Background
-
--   Basic understanding of Large Language Models (LLMs) such as ChatGPT, Claude, and Gemini.
--   Familiarity with the concepts of prompt engineering and AI content generation.
--   An interest in design leadership, AI collaboration, and technical workflows for design professionals.
-
-### Related Reading
-
-If you're new to the broader context of this repository, you might want to start with:
--   [Repository Root](../../) - For an overview of the "Syntax & Empathy Companion" repository.
-
-</details>
-
----
-
-## Related Content
-
-### Within This Repository
-
-**Related directories:**
--   [article-lists/](article-lists/) - Provides a full year table of contents for the AI trials, offering an alternative way to navigate the content.
--   [digests/](digests/) - Contains summarized versions of the trials, useful for quick comprehension of key findings.
--   [2025-orignal-art/](2025-orignal-art/) - Houses visual assets related to the broader "Syntax & Empathy Companion" project.
-
-### Collection Context
-
-This directory forms the historical archive for the 2024 AI content generation trials, serving as a foundational component of the broader "Syntax & Empathy Companion" repository.
-
----
-
-## What's Next
-
-**After reading this, you might want to:**
-1.  Explore the [article-lists/](article-lists/) directory for a consolidated, alternative view of all trial articles and their contents.
-2.  Dive into specific monthly trial articles (e.g., [ai-trials-february-pt-1.md](ai-trials-february-pt-1.md)) to examine detailed experimental logs and prompt interactions.
-3.  Consider how the insights from these 2024 trials might inform current AI content strategy and prompt engineering efforts in design workflows.
-
-**Apply what you learned:**
--   Implement similar prompt engineering techniques (e.g., role-based prompts, structured templates) in your own AI content generation tasks.
--   Develop or refine evaluation criteria for AI-generated content based on the challenges and successes documented here.
-
----
-
-## References & Citations
-
-<details>
-<summary><strong>Sources & Further Reading</strong> (click to expand)</summary>
-
-### Primary Sources
-
-This directory itself contains the primary experimental logs and generated content from the 2024 AI trials. Individual markdown files within provide detailed documentation of each experiment.
-
-### Recommended Reading
-
--   [Repository Root](../../) - For overarching themes and the vision of the "Syntax & Empathy Companion."
-
-</details>
-
----
-
-## Metadata
-
-<details>
-<summary><strong>Content Information</strong> (click to expand)</summary>
-
-| | |
-|---|---|
-| **Created** | 2024-01-01 |
-| **Last Updated** | 2025-09-20 |
-| **Version** | 1.0 |
-| **Status** | Archived / Complete |
-| **Content Type** | Research Archive / Experiment Logs |
-| **Reading Time** | Extensive Reference |
-| **Word Count** | N/A (Collection of multiple articles) |
-| **Author** | Repository Maintainer / AI Researcher |
-| **Tags** | AI, Content Generation, Prompt Engineering, LLM, Design Leadership, AI Collaboration, 2024 Trials, Holiday Traditions, ChatGPT, Claude, Gemini, Bard, Copilot, LLaMA |
-
-</details>
-
----
-
-## Engage
-
-**Found this helpful?** Please consider opening an issue on the [GitHub repository](../../../issues) to share your feedback.
-**Have questions?** Refer to the main repository's [contribution guidelines](../../../CONTRIBUTING.md) for contact information or discussion forums.
-**Spotted an issue?** Please open a [pull request](../../../pulls) or [issue](../../../issues) on GitHub to suggest improvements or report errors.
-
----
-
-**Stay Updated:** Follow the [main repository](../../) for future updates and related content.
+├── ai
