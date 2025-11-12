@@ -197,6 +197,13 @@ class READMEManager:
         context_parts.append(f"Directory name: {analysis['name']}")
         context_parts.append(f"Depth level: {analysis['depth']}")
 
+        # Add breadcrumb trail for wayfinding
+        parts = list(analysis['relative_path'].parts)
+        if parts:
+            breadcrumb = " > ".join(parts)
+            context_parts.append(f"Breadcrumb trail: {breadcrumb}")
+            context_parts.append(f"Parent directory: {parts[-2] if len(parts) > 1 else 'root'}")
+
         # Add subdirectory information
         if analysis['subdirs']:
             context_parts.append(f"\nSubdirectories ({len(analysis['subdirs'])}):")
@@ -248,6 +255,16 @@ class READMEManager:
                 except Exception:
                     pass
 
+        # Add sibling directories for navigation context
+        if dir_path.parent != self.repo_root:
+            try:
+                siblings = [d.name for d in dir_path.parent.iterdir()
+                           if d.is_dir() and d != dir_path and d.name not in self.EXCLUDED_DIRS]
+                if siblings:
+                    context_parts.append(f"\nSibling directories: {', '.join(sorted(siblings)[:10])}")
+            except Exception:
+                pass
+
         # Add existing README if present
         if analysis['has_readme'] and analysis['readme_content']:
             context_parts.append(f"\nExisting README content:\n{analysis['readme_content']}")
@@ -279,13 +296,22 @@ Instructions:
 1. Analyze the directory structure and content provided above
 2. {'Update the existing README to ensure accuracy and completeness' if action == 'update' else 'Create a new README using the appropriate template'}
 3. Fill in all template sections with specific, accurate information based on the actual directory contents
-4. Use clear, professional language appropriate for design professionals
-5. Ensure the README helps visitors navigate and understand the content without guesswork
-6. Maintain consistency with parent and sibling directory READMEs where applicable
-7. For index directories: focus on navigation and structure
-8. For content directories: focus on what's inside and why it matters
-9. Remove any template comments (<!-- ... -->) from the final output
-10. Keep the tone informative and professional, similar to existing content in the repository
+
+UX Best Practices (CRITICAL):
+4. **Wayfinding**: Use the breadcrumb trail provided to create the wayfinding section. Build clear navigation showing parent directory and path to root. Include sibling directories in "Related directories" or "What's Next" sections.
+5. **Progressive Disclosure**: Use the <details>/<summary> HTML tags to hide detailed information. Start with essential info (TL;DR, At a Glance) and progressively reveal more detail.
+6. **Information Scent**: Write clear, descriptive links and labels that tell users exactly what they'll find. Avoid vague terms.
+7. **Scanability**: Use tables, emojis, and formatting to make information scannable. The "At a Glance" section should be a quick reference.
+
+Content Guidelines:
+8. Use clear, professional language appropriate for design professionals
+9. Ensure the README helps visitors navigate and understand the content without guesswork
+10. For index directories: focus on navigation, structure, and helping visitors choose where to go
+11. For content directories: start with TL;DR, then expand progressively into details
+12. Create actionable "What's Next" sections with specific next steps and links
+13. Remove any template comments (<!-- ... -->) from the final output
+14. Keep the tone informative and professional, similar to existing content in the repository
+15. Use emojis tastefully to create visual landmarks (🧭 for wayfinding, 📋 for summaries, etc.)
 
 Return ONLY the complete README.md content, with no preamble or explanation.
 """
