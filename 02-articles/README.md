@@ -121,9 +121,9 @@ Visitors will find in-depth articles, practical guides, conceptual essays, and t
 ## What's Next
 
 **After exploring this directory, you might want to:**
-1.  Review other top-level content directories for different content formats, such as `01-concepts/` for foundational ideas or `03-projects/` for practical applications.
+1.  Review other top-level content directories for different content formats, such as [`01-concepts/`](../01-concepts/) for foundational ideas or [`03-projects/`](../03-projects/) for practical applications.
 2.  Dive into specific article subdirectories for detailed insights and practical takeaways.
-3.  Check the `01-archive/` directory for historical articles and archived content.
+3.  Check the [`01-archive/`](../01-archive/) directory for historical articles and archived content.
 
 **Related directories:**
 - [`01-archive/`](../01-archive/) - For archived articles and historical content.
