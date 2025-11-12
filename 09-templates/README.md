@@ -111,6 +111,10 @@ Start here for the most essential or popular content:
 2. Refer to the `01-introduction/` directory for general repository guidelines and standards that these templates support.
 3. Contribute new template ideas or improvements to enhance repository consistency and user experience.
 
+**Related directories:**
+- `01-introduction/` - Provides overarching guidelines that these templates help implement.
+- `10-resources/` (if applicable) - May contain guides or examples that reference these templates for best practices.
+
 ---
 
 ## Metadata

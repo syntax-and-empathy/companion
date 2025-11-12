@@ -33,10 +33,10 @@ The `02-articles` directory serves as the primary repository for in-depth articl
 <details>
 <summary><strong>More Context</strong> (click to expand)</summary>
 
-This directory is designed to house evergreen, long-form content that provides substantial value and detailed exploration of key themes. Unlike shorter blog posts often found in a `_posts` directory, articles here are intended to be more comprehensive and serve as foundational references. The content is curated to empower design professionals with both the conceptual frameworks and practical tools needed to navigate the evolving landscape of design, AI, and technology.
+This directory is designed to house evergreen, long-form content that provides substantial value and detailed exploration of key themes. Articles here are intended to be comprehensive and serve as foundational references. The content is curated to empower design professionals with both the conceptual frameworks and practical tools needed to navigate the evolving landscape of design, AI, and technology.
 
 **Related Areas:**
-- [`_posts/`](/_posts/) (if applicable in Jekyll) - For shorter, more frequent blog entries or news updates.
+- [`01-archive/`](../01-archive/) - For archived articles and historical content.
 - [`01-concepts/`](../01-concepts/) - For foundational definitions and high-level conceptual overviews that might precede detailed articles.
 
 </details>
@@ -121,12 +121,12 @@ Visitors will find in-depth articles, practical guides, conceptual essays, and t
 ## What's Next
 
 **After exploring this directory, you might want to:**
-1.  Review other top-level content directories for different content formats, such as `01-concepts/` for foundational ideas or `03-case-studies/` (if it exists) for practical applications.
+1.  Review other top-level content directories for different content formats, such as `01-concepts/` for foundational ideas or `03-projects/` for practical applications.
 2.  Dive into specific article subdirectories for detailed insights and practical takeaways.
-3.  Check the main `_posts` directory (if applicable in Jekyll) for shorter, more frequent updates or blog entries.
+3.  Check the `01-archive/` directory for historical articles and archived content.
 
 **Related directories:**
-- [`_posts/`](/_posts/) - For blog posts and more timely updates (if applicable in Jekyll structure).
+- [`01-archive/`](../01-archive/) - For archived articles and historical content.
 - [`01-concepts/`](../01-concepts/) - For foundational definitions and high-level conceptual overviews.
 
 ---

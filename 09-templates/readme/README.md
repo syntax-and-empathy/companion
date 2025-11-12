@@ -6,7 +6,7 @@ A collection of standardized templates for creating consistent and informative `
 
 ## Wayfinding
 
-**You are here:** [09-templates](../) > **Templates for README Files**
+**You are here:** [09-templates](../) > **readme**
 
 **Up:** [../](../) - The parent `09-templates` directory, which houses various repository-wide templates.
 **Home:** [../../](../../) - Return to repository root
@@ -43,7 +43,7 @@ This directory provides standardized templates for crafting `README.md` files fo
 This directory addresses the need for structured and consistent documentation within the Syntax & Empathy Companion repository. It provides pre-defined markdown templates that guide contributors through the process of creating informative `README.md` files for various directory types. The goal is to establish a unified approach to documentation, ensuring every directory clearly communicates its purpose, contents, and context, thereby improving content discoverability.
 
 <details>
-<summary><strong>About This Content</strong> (click to expand)</summary>
+<summary>**About This Content** (click to expand)</summary>
 
 ### Purpose & Context
 
@@ -61,13 +61,13 @@ The motivation for these templates stems from the need for structured and consis
 
 ### Core Concepts
 
-- **README Structure** - Standardized layouts and sections for directory documentation.
-- **Content Directory README** - Guidelines for documenting directories that house specific articles, tutorials, or case studies.
-- **Index Directory README** - Guidelines for documenting directories that serve as navigation hubs, grouping other directories or content.
-- **Documentation Consistency** - Promoting a uniform approach to repository documentation.
+-   **README Structure** - Standardized layouts and sections for directory documentation.
+-   **Content Directory README** - Guidelines for documenting directories that house specific articles, tutorials, or case studies.
+-   **Index Directory README** - Guidelines for documenting directories that serve as navigation hubs, grouping other directories or content.
+-   **Documentation Consistency** - Promoting a uniform approach to repository documentation.
 
 <details>
-<summary><strong>Detailed Topic Breakdown</strong> (click to expand)</summary>
+<summary>**Detailed Topic Breakdown** (click to expand)</summary>
 
 ### README Structure
 This template collection establishes standardized layouts and essential sections that all `README.md` files should adhere to. This includes consistent headings, wayfinding elements, summary sections, and metadata fields, ensuring a predictable and user-friendly documentation experience.
@@ -108,7 +108,7 @@ A core goal of these templates is to promote a uniform approach to repository do
 ### Supporting Materials
 
 <details>
-<summary><strong>View All Files & Directories</strong> (click to expand)</summary>
+<summary>**View All Files & Directories** (click to expand)</summary>
 
 ```
 readme/
@@ -147,7 +147,7 @@ readme/
 ## Prerequisites & Context
 
 <details>
-<summary><strong>What to know before reading</strong> (click to expand)</summary>
+<summary>**What to know before reading** (click to expand)</summary>
 
 ### Helpful Background
 
@@ -194,7 +194,7 @@ This content is part of the `09-templates` collection, a broader set of guidelin
 ## References & Citations
 
 <details>
-<summary><strong>Sources & Further Reading</strong> (click to expand)</summary>
+<summary>**Sources & Further Reading** (click to expand)</summary>
 
 ### Primary Sources
 
@@ -203,7 +203,6 @@ N/A - This content is an internal documentation guide for the repository.
 ### Recommended Reading
 
 -   [GitHub's Guide to writing a great README](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-readmes) - For general best practices on README files.
--   [Jekyll Documentation](https://jekyllrb.com/docs/) - For understanding the underlying framework of the "Syntax & Empathy Companion."
 
 </details>
 
@@ -212,7 +211,7 @@ N/A - This content is an internal documentation guide for the repository.
 ## Metadata
 
 <details>
-<summary><strong>Content Information</strong> (click to expand)</summary>
+<summary>**Content Information** (click to expand)</summary>
 
 | | |
 |---|---|
