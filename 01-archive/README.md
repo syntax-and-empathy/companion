@@ -156,7 +156,7 @@ Each monthly trial involves a rigorous evaluation of the AI-generated content. T
 #### Directory Guide
 
 -   **[2025-orignal-art/](2025-orignal-art/)** - Contains original visual assets intended for the broader "Syntax & Empathy Companion" project, providing visual context for related content.
--   **[article-lists/](article-lists/)** - Houses a full year's table of contents for the AI trials, offering an alternative chronological overview of all articles.
+-   **[article-lists/](article-lists/)** - Houses a full year's table of contents for the AI trials, offering an an alternative chronological overview of all articles.
 -   **[digests/](digests/)** - Contains summarized versions or key takeaways from the various trials, useful for quick comprehension of key findings.
 
 </details>
