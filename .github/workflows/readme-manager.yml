@@ -86,7 +86,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git add README.md */README.md */*/README.md */*/*/README.md */*/*/*/README.md */*/*/*/*/README.md
+          # Add all modified and new README.md files, excluding ignored paths
+          find . -name "README.md" -type f -not -path "./.git/*" -exec git add {} + 2>/dev/null || true
 
           if git diff --staged --quiet; then
             echo "No README changes to commit"
