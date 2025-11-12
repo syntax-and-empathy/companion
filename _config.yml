@@ -1,0 +1,39 @@
+# Site settings
+title: Syntax & Empathy Companion
+description: >-
+  Structured content about design leadership, AI collaboration,
+  and technical workflows for design professionals.
+url: "https://syntax-and-empathy.github.io"
+baseurl: "/companion"
+
+# Author information
+author:
+  name: Syntax & Empathy
+
+# Theme configuration
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: cotes2020/jekyll-theme-chirpy
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Collections
+collections:
+  articles:
+    output: true
+    permalink: /articles/:path/
+
+# Exclude from processing
+exclude:
+  - .github/
+  - 00-resources/
+  - 09-templates/
+  - README.md
+  - LICENSE
+  - robots.txt
+  - pyproject.toml
+  - uv.lock
+  - "*.py"
