@@ -36,7 +36,7 @@ plugins:
   - jekyll-archives
   - jekyll-include-cache
 
-remote_theme: cotes2020/jekyll-theme-chirpy
+remote_theme: cotes2020/jekyll-theme-chirpy@v6.5.5
 
 # Archive configuration
 jekyll-archives:
