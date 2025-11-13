@@ -44,3 +44,11 @@ thumbs.db
 
 # Node modules (if using any)
 node_modules/
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+bin/
