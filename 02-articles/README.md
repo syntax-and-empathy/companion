@@ -18,7 +18,7 @@ This directory contains the main articles and long-form content for the "Syntax 
 | | |
 |---|---|
 | **Purpose** | Organizes in-depth articles, essays, and comprehensive guides on design leadership, AI, and technical workflows. |
-| **Contents** | 4 subdirectories covering various aspects of design, technology, and leadership. |
+| **Contents** | 5 subdirectories covering various aspects of design, technology, and leadership. |
 | **Audience** | Design professionals, leaders, technologists, and anyone interested in the intersection of design, AI, and technical practice. |
 | **Best For** | Deep dives into specific topics, foundational knowledge, and practical guides for enhancing professional capabilities. |
 
@@ -56,6 +56,7 @@ Start here for essential or highly relevant content:
 
 - **[`0917-screen-worth-1k-tokens/`](0917-screen-worth-1k-tokens/)** - An article exploring the value of a 'screen' as a unit of thought or interaction in the context of AI, design, and information processing.
 - **[`1025-when-ai-falls-in-love/`](1025-when-ai-falls-in-love/)** - A speculative essay examining the implications and ethical considerations when advanced AI systems develop complex emotional or relational capabilities.
+- **[`25####-claude-code-preview/`](25####-claude-code-preview/)** - An article exploring the use of Claude AI for code preview, technical review, and enhancing designer-developer collaboration workflows.
 - **[`251012-git-github-setup/`](251012-git-github-setup/)** - A comprehensive guide on setting up and effectively using Git and GitHub for version control and collaborative workflows, tailored for design professionals.
 - **[`251109-on-authenticity/`](251109-on-authenticity/)** - An article exploring the concept of authenticity in design leadership, professional practice, and collaboration, particularly in the context of emerging technologies like AI.
 
@@ -67,6 +68,8 @@ Start here for essential or highly relevant content:
 ├── 0917-screen-worth-1k-tokens/
 │   └── index.md or README.md
 ├── 1025-when-ai-falls-in-love/
+│   └── index.md or README.md
+├── 25####-claude-code-preview/
 │   └── index.md or README.md
 ├── 251012-git-github-setup/
 │   └── index.md or README.md
@@ -84,6 +87,7 @@ Start here for essential or highly relevant content:
 
 **If you're looking for practical technical skills:** Start with [`251012-git-github-setup/`](251012-git-github-setup/)
 **If you're interested in AI's impact on design and ethics:** Check out [`0917-screen-worth-1k-tokens/`](0917-screen-worth-1k-tokens/) or [`1025-when-ai-falls-in-love/`](1025-when-ai-falls-in-love/)
+**If you're exploring AI-assisted technical workflows:** Consider [`25####-claude-code-preview/`](25####-claude-code-preview/)
 **If you want to explore design leadership and professional practice:** Begin with [`251109-on-authenticity/`](251109-on-authenticity/)
 **If you want to browse content chronologically:** Scan the directory names for the dates (YYMMDD) to see the progression of published articles.
 
@@ -128,6 +132,7 @@ Visitors will find in-depth articles, practical guides, conceptual essays, and t
 **Related directories:**
 - [`01-archive/`](../01-archive/) - For archived articles and historical content.
 - [`01-concepts/`](../01-concepts/) - For foundational definitions and high-level conceptual overviews.
+- [`03-projects/`](../03-projects/) - For practical applications, case studies, and hands-on explorations.
 
 ---
 
@@ -138,10 +143,10 @@ Visitors will find in-depth articles, practical guides, conceptual essays, and t
 
 | | |
 |---|---|
-| **Last Updated** | 2024-05-15 |
+| **Last Updated** | 2024-05-16 |
 | **Status** | Active |
-| **Subdirectories** | 4 |
-| **Total Items** | 4 (core articles) |
+| **Subdirectories** | 5 |
+| **Total Items** | 5 (core articles) |
 | **Maintainer** | Repository Team |
 
 </details>
