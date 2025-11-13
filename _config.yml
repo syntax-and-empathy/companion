@@ -13,10 +13,16 @@ baseurl: "/companion"
 # Author information
 author:
   name: Syntax & Empathy
+  email: noreply@syntaxandempathy.ai
+
+# GitHub integration
+github:
+  username: syntax-and-empathy
 
 # Social configuration
 social:
   name: Syntax & Empathy
+  email: noreply@syntaxandempathy.ai
   links:
     - https://github.com/syntax-and-empathy
 
@@ -32,6 +38,16 @@ plugins:
 
 remote_theme: cotes2020/jekyll-theme-chirpy
 
+# Archive configuration
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/
+
 # Theme mode (light, dark, or leave empty for user preference)
 theme_mode:
 
@@ -46,6 +62,8 @@ markdown: kramdown
 permalink: pretty
 
 # Collections
+# Note: Chirpy uses _posts/ for blog posts (homepage, archives, RSS)
+# The articles collection below is for comprehensive guides with complex structure
 collections:
   articles:
     output: true
