@@ -1,19 +1,52 @@
 # Jekyll Remote Theme Setup - Issue Documentation
 
-**Date:** 2025-11-13
-**Theme:** Chirpy (cotes2020/jekyll-theme-chirpy)
+**Date:** 2025-11-13 (Updated: 2025-11-13)
+**Theme:** Chirpy v6.5.5 (cotes2020/jekyll-theme-chirpy@v6.5.5)
 **Status:** ✅ All Critical Issues Fixed
+
+---
+
+## ⚠️ CRITICAL BUILD BLOCKER DISCOVERED & FIXED (2025-11-13)
+
+### NEW Issue #7: MockGemspec Version Method Error
+**Priority:** CRITICAL - BUILD BLOCKER
+**Status:** ✅ FIXED
+**Location:** `_config.yml:39`
+
+**Problem:**
+Chirpy v7.x theme layouts attempt to access `{{ site.theme.version }}`, but jekyll-remote-theme's MockGemspec doesn't implement the `.version` method, causing builds to fail completely.
+
+**Error:**
+```
+Liquid Exception: undefined method `version' for
+#<Jekyll::RemoteTheme::MockGemspec...>
+in /tmp/jekyll-remote-theme.../_ layouts/default.html
+```
+
+**Root Cause:**
+- Incompatibility between Chirpy v7.x layouts and jekyll-remote-theme plugin
+- Jekyll 4.3.4's theme drop expects `.version` method
+- MockGemspec wrapper doesn't expose gemspec version
+
+**Solution Applied:**
+Pinned to Chirpy v6.5.5 (stable version compatible with jekyll-remote-theme):
+```yaml
+remote_theme: cotes2020/jekyll-theme-chirpy@v6.5.5
+```
 
 ---
 
 ## 📝 FIXES APPLIED (2025-11-13)
 
-### Fixed Issues
+### Configuration Fixes
 1. ✅ **Issue #1** - Added `jekyll-archives` configuration (_config.yml:41-49)
 2. ✅ **Issue #2** - Created `_posts/` directory with documentation (_posts/README.md)
 3. ✅ **Issue #4** - Added `github.username` field (_config.yml:18-20)
 4. ✅ **Issue #5** - Added author email (_config.yml:14-16)
 5. ✅ **Issue #6** - Added email to social configuration (_config.yml:23-27)
+
+### Build Blocker Fixes
+6. ✅ **Issue #7** - Pinned Chirpy to v6.5.5 to avoid MockGemspec error (_config.yml:39)
 
 ### Files Modified
 - `_config.yml` - Added archive config, GitHub username, author/social emails
