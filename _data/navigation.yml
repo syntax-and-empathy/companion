@@ -1,0 +1,10 @@
+# Main navigation links
+main:
+  - title: "Articles"
+    url: /articles/
+  - title: "Archive"
+    url: /archive/
+  - title: "Templates"
+    url: /templates/
+  - title: "About"
+    url: /about/
