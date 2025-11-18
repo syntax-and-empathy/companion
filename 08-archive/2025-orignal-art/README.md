@@ -6,9 +6,9 @@ A collection of bespoke visual assets crafted in 2025 to enrich the narrative an
 
 ## Wayfinding
 
-**You are here:** 01-archive > **2025-orignal-art**
+**You are here:** 08-archive > **2025-orignal-art**
 
-**Up:** [../](../) - Archived AI Content Generation Trials and other historical materials
+**Up:** [../](../) - AI Content Generation Trials: 2024 Archive and other historical materials
 **Home:** [/](/) - Return to repository root
 
 ---
@@ -40,7 +40,7 @@ This directory archives original, human-crafted visual assets from 2025 for the 
 
 ## Overview
 
-This directory serves as a dedicated archive for the original visual assets developed in 2025 for the 'Syntax & Empathy Companion'. Unlike the AI-generated content in the broader `01-archive`, these are human-crafted illustrations and graphics. They are designed to support and visually articulate the repository's core themes of design leadership, AI collaboration, and technical workflows, making complex concepts more engaging and accessible for design professionals.
+This directory serves as a dedicated archive for the original visual assets developed in 2025 for the 'Syntax & Empathy Companion'. Unlike the AI-generated content in the broader `08-archive`, these are human-crafted illustrations and graphics. They are designed to support and visually articulate the repository's core themes of design leadership, AI collaboration, and technical workflows, making complex concepts more engaging and accessible for design professionals.
 
 <details>
 <summary><strong>About This Content</strong> (click to expand)</summary>
@@ -51,7 +51,7 @@ This collection provides the foundational visual language for the 'Syntax & Empa
 
 ### Background
 
-In 2025, as the 'Syntax & Empathy Companion' repository was being developed, a dedicated effort was made to create unique, human-designed visual assets to complement its technical and leadership content. This was to establish a distinct brand identity and provide clear visual aids, differentiating it from the experimental AI-generated content housed in other parts of the `01-archive`.
+In 2025, as the 'Syntax & Empathy Companion' repository was being developed, a dedicated effort was made to create unique, human-designed visual assets to complement its technical and leadership content. This was to establish a distinct brand identity and provide clear visual aids, differentiating it from the experimental AI-generated content housed in other parts of the `08-archive`.
 
 </details>
 
@@ -139,7 +139,7 @@ This directory contains the following original visual assets:
 
 If you're new to this topic, you might want to start with:
 - [../../README.md](../../README.md) - The main repository README for an overview of the 'Syntax & Empathy Companion'.
-- [../README.md](../README.md) - The parent `01-archive` directory to understand the broader context of archived content.
+- [../README.md](../README.md) - The parent `08-archive` directory to understand the broader context of archived content.
 
 </details>
 

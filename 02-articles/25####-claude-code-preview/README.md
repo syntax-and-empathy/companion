@@ -36,8 +36,7 @@ This directory hosts a comprehensive article detailing the "Claude Code Web Prev
 Understanding AI's ability to interpret and preview code is becoming increasingly vital for design professionals who collaborate with developers or leverage AI in their creative and technical processes. This article provides insights into optimizing these interactions, identifying potential efficiencies, and navigating the challenges of AI-assisted code environments.
 
 **Related Areas:**
-- [02-articles/](02-articles/) - For other long-form content on AI, design leadership, and technical workflows.
-- [AI Collaboration Guides](/path/to/ai-collaboration-guides) - For broader strategies on working with AI in design.
+- [02-articles/](../) - For other long-form content on AI, design leadership, and technical workflows.
 
 </details>
 
